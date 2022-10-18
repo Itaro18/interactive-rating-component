@@ -114,3 +114,13 @@ footer{
     margin-top: 2rem;
     color: #fff;
 }
+
+@media(max-width:400px){
+    .card{
+        width: 90%;
+    }
+    .rating-display{
+        margin: 1rem 3rem 1.5rem;
+    }
+    
+}
